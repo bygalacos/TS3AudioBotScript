@@ -12,7 +12,9 @@ Script can capable of:
 
 	Restart TS3AudioBot
 
-	Install TS3AudioBot
+	Update TS3AudioBot Config
+	
+	Remove TS3 AudioBot
 
 	Set AutoUpdate for youtube-dl
  
