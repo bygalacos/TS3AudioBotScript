@@ -14,7 +14,7 @@ Script can capable of:
 
 	Update TS3AudioBot Config
 	
-	Remove TS3 AudioBot
+	Remove TS3AudioBot
 
 	Set AutoUpdate for youtube-dl
  
