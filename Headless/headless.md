@@ -4,7 +4,7 @@
 
 This version is more likely for server users. No sleep or junk code. Fastest TS3AudioBotScript ever made. 
 
-Each bot have a unique folder name due to "audiobot$port"
+Each bot have a unique folder name such as "audiobot$port"
 
 Be careful to not use same port for connection more than once.
 
