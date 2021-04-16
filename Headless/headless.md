@@ -36,7 +36,7 @@ in terminal. After initialization, you can use other scripts as detailed below.
 
 ---
 WARNING: Do not put space in bot name. It's not supported for now.
--
+---
 
 ---
 
