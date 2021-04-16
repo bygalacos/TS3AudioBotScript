@@ -21,15 +21,13 @@ Script can capable of:
 
 ## Installation
 
-1. [Install Mono](https://www.mono-project.com/download/stable/#download-lin)
-
-2. Use wget to download script.
+1. Use wget to download script.
 
 ```bash
 wget https://github.com/bygalacos/TS3AudioBotScript/raw/main/AudioBot
 ```
 
-3. Mark file as executable.
+2. Mark file as executable.
 
 ```bash
 chmod +x AudioBot
