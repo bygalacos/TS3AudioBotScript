@@ -18,7 +18,7 @@ wget https://github.com/bygalacos/TS3AudioBotScript/raw/main/Headless/headless.z
 
     1.1 If you want to install with Turkish Language use this
 
-    wget https://github.com/bygalacos/TS3AudioBotScript/raw/main/AudioBotTUR
+    wget wget https://github.com/bygalacos/TS3AudioBotScript/raw/main/Headless/headlessTUR.zip
 
 2. Extract zip to a new folder and mark files as executable.
 
