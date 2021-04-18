@@ -16,6 +16,10 @@ Be careful to not use same port for connection more than once.
 wget https://github.com/bygalacos/TS3AudioBotScript/raw/main/Headless/headless.zip
 ```
 
+    1.1 If you want to install with Turkish Language use this
+
+    wget https://github.com/bygalacos/TS3AudioBotScript/raw/main/AudioBotTUR
+
 2. Extract zip to a new folder and mark files as executable.
 
 ```bash
