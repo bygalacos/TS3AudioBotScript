@@ -29,7 +29,7 @@ wget https://github.com/bygalacos/TS3AudioBotScript/raw/main/AudioBot
 
 	1.1 If you want to install with Turkish Language use this
 
-	wget https://github.com/bygalacos/TS3AudioBotScript/raw/main/AudioBot
+	wget https://github.com/bygalacos/TS3AudioBotScript/raw/main/AudioBotTUR
 
 2. Mark file as executable.
 
