@@ -1,4 +1,8 @@
-# TS3AudioBotScript
+***************
+WARNING: THIS PROJECT IS DEPRECATED
+====================================
+It will not receive any future updates or bug fixes. If you are using it, please migrate to another solution.
+***************
 
 TS3AudioBotScipt is a fully automated installer for your server.
 
